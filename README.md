@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 ## Kevin's notes
 
 ## again
+will add to staging
+
+will leave in working area for diff
