@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+ Kevin Lamse	klamse@ncaa.org @hi
 
 # THANKS
 
