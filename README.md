@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 will add to staging
 
 will leave in working area for diff
+
+added copyright
