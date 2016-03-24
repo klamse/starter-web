@@ -13,3 +13,5 @@ will add to staging
 will leave in working area for diff
 
 added copyright
+
+added for merge test
