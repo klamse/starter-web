@@ -19,3 +19,4 @@ added for merge test
 more about rebasing
 doing this from myfeature
 another stashed line
+end
